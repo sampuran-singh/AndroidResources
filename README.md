@@ -17,13 +17,17 @@
     * https://testing.googleblog.com/
     * https://medium.com/google-developers
   * Mercari: https://engineering.mercari.com/en/blog/category/client-side/
+  * Meta
+    * https://engineering.fb.com/category/android/
+    * https://engineering.fb.com/tag/instagram/
+    * https://instagram-engineering.com/tagged/android
   * Novoda: https://novoda.com/blog/category/mobile-engineering/
   * Swiggy: https://bytes.swiggy.com/tagged/swiggy-mobile
   * Uber: https://www.uber.com/en-IN/blog/engineering/mobile/
   * Pinterest: https://medium.com/@Pinterest_Engineering
 
 * People
-  * Romain Guy: Romain Guy
+  * Romain Guy: https://www.romainguy.dev/posts/
   * Jake Wharton: https://jakewharton.com/blog/
   * Chris Banes: https://chrisbanes.me/posts/
   * Commonsware: https://commonsware.com/blog/
@@ -43,3 +47,21 @@
 * Fragmented Android developer Podcast: https://fragmentedpodcast.com/
 * Android Bytes : https://android-bytes-by-esper.captivate.fm/
 * Android Intelligence: https://pca.st/androidintel
+
+# Youtube
+
+* Android series
+  * Android Performance Patterns: https://www.youtube.com/watch?v=Ls3KzLRmrXg&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=3
+  * 
+
+# Java and Kotlin
+* https://kotlinlang.org/docs/home.html
+* https://typealias.com/start/
+* https://shipilev.net/
+* https://blogs.oracle.com/javamagazine/
+* https://blog.jdriven.com/
+
+# Others
+
+* IntelliJ Idea shortcuts: https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+* 
