@@ -17,6 +17,8 @@
     * https://android-developers.googleblog.com/
     * https://testing.googleblog.com/
     * https://medium.com/google-developers
+    * https://medium.com/androiddevelopers
+    * https://medium.com/googleplaydev
   * Mercari: https://engineering.mercari.com/en/blog/category/client-side/
   * Meta
     * https://engineering.fb.com/category/android/
@@ -34,6 +36,8 @@
   * Commonsware: https://commonsware.com/blog/
   * https://blog.danlew.net/tag/android/
   * https://github.com/doveletter
+  * Manuel Vivo : https://medium.com/@manuelvicnt
+  * Ian Lake: https://medium.com/@ianhlake
     
 # Podcasts
 
@@ -64,6 +68,14 @@
 * https://blogs.oracle.com/javamagazine/
 * https://blog.jdriven.com/
 * https://kotlinweekly.net/#
+
+# System Design
+* https://github.com/weeeBox/mobile-system-design
+* https://github.com/donnemartin/system-design-primer
+* https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84
+* https://medium.com/@manuelvicnt/interviewing-at-staff-level-7a31836285e6
+* https://blog.blundellapps.co.uk/android-job-interview-take-home-test-cheat-sheet/
+* https://artem-goncharov.medium.com/grokking-the-mobile-system-design-interview-6a06fa94491b
 
 # Others
 
