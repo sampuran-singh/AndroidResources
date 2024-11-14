@@ -10,6 +10,7 @@
   * Doordash: https://careersatdoordash.com/engineering-blog/?category=Mobile
   * Dropbox: https://dropbox.tech/mobile
   * Flipkart: https://blog.flipkart.tech/tagged/mobile
+  * Gojek: https://www.gojek.io/blog/tag/tech?p=1
   * Google
     * https://developer.android.com/
     * http://source.android.com/
@@ -31,6 +32,8 @@
   * Jake Wharton: https://jakewharton.com/blog/
   * Chris Banes: https://chrisbanes.me/posts/
   * Commonsware: https://commonsware.com/blog/
+  * https://blog.danlew.net/tag/android/
+  * https://github.com/doveletter
     
 # Podcasts
 
@@ -60,8 +63,8 @@
 * https://shipilev.net/
 * https://blogs.oracle.com/javamagazine/
 * https://blog.jdriven.com/
+* https://kotlinweekly.net/#
 
 # Others
 
 * IntelliJ Idea shortcuts: https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
-* 
